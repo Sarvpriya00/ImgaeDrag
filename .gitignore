@@ -1,0 +1,39 @@
+# OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two carriage returns
+Icon
+
+# Thumbnails
+._*
+
+# Files that might be created on a Novell network
+.TemporaryItems
+.apdisk
+
+# Xcode
+# Xcode user settings
+xcuserdata/
+
+# Xcode build paths
+build/
+DerivedData/
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Packages/
+Package.pins
+Package.resolved
+
+# Carthage
+Carthage/Build/
+
+# CocoaPods
+Pods/
